@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6F06571420F90F8200FFE0E8 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F06571320F90F8200FFE0E8 /* Color.swift */; };
+		6F06575220F91E4600FFE0E8 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F06575120F91E4600FFE0E8 /* ColorDetailViewController.swift */; };
 		6FA15D2720EB0F7800AFDA7D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FA15D2620EB0F7800AFDA7D /* AppDelegate.swift */; };
 		6FA15D2C20EB0F7800AFDA7D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FA15D2A20EB0F7800AFDA7D /* Main.storyboard */; };
 		6FA15D2E20EB0F7900AFDA7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FA15D2D20EB0F7900AFDA7D /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		6F06571320F90F8200FFE0E8 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		6F06575120F91E4600FFE0E8 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 		6FA15D2320EB0F7800AFDA7D /* colors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = colors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FA15D2620EB0F7800AFDA7D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6FA15D2B20EB0F7800AFDA7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				6FA15D3220EB0F7900AFDA7D /* Info.plist */,
 				6FA15D5420EB108800AFDA7D /* ColorsViewController.swift */,
 				6F06571320F90F8200FFE0E8 /* Color.swift */,
+				6F06575120F91E4600FFE0E8 /* ColorDetailViewController.swift */,
 			);
 			path = colors;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				6FA15D5520EB108800AFDA7D /* ColorsViewController.swift in Sources */,
 				6FA15D2720EB0F7800AFDA7D /* AppDelegate.swift in Sources */,
 				6F06571420F90F8200FFE0E8 /* Color.swift in Sources */,
+				6F06575220F91E4600FFE0E8 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
